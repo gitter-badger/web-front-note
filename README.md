@@ -1,7 +1,7 @@
 <h1 align="center"> 前端学习笔记</h1>
 
 # 目录
-## [学习框架](web-front-note/route.md)
+## [学习框架](https://github.com/kuyeduwu/web-front-note/route.md)
 ## [工具准备]()
 ## 基础知识
 * [HTML]()
