@@ -6,7 +6,7 @@
 ## 基础知识
 * [HTML]()
 * [CSS]()
-* [JavsScript]()
+* [JavaScript]()
 ## 在线资源
 * [FreeCodeCamp]()
 * [宁皓网]()
