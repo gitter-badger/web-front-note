@@ -21,7 +21,7 @@ CSS决定了内容以何种样式显示。
 <h1 style="color: blue;">Hello World</h>
 ```
 
-其中`style="color: blue;"`便属于CSS部分，作用在于将一级标题"Hello World"以红色字体显示。
+其中`style="color: blue;"`便属于CSS部分，作用在于将一级标题"Hello World"以蓝色字体显示。
 
 #### JavaScript
 JavaScript决定了当某一行为发生时，浏览器执行什么样的动作。
