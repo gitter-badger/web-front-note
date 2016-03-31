@@ -6,6 +6,8 @@
 ## [学习框架](/route.md)
 ## [工具准备](/tools.md)
 ## 基础知识
+
+[![Join the chat at https://gitter.im/kuyeduwu/web-front-note](https://badges.gitter.im/kuyeduwu/web-front-note.svg)](https://gitter.im/kuyeduwu/web-front-note?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [HTML]()
 * [CSS]()
 * [JavaScript]()
